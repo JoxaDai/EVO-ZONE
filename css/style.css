@@ -1,0 +1,228 @@
+body {
+	background-color: #002340;
+	background-image:url(images/FrontEnd.png);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+}
+
+td,th {
+	color: #FFFFFF;
+}
+
+td#contenu {
+	color: #FFFFFF;
+	background-image:url(images/FrontEnd.png);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	border-style:ridge;
+	border-width:5px;
+	border-color: #00203b;
+}
+
+td#logo {
+	color: #FFFFFF;
+	background-image:url(images/FrontEnd.png);
+}
+
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.link2 {
+	color: #004e88;
+	text-decoration: none;
+}
+a.link2:visited {
+	text-decoration: none;
+	color: #004e88;
+}
+a.link2:hover {
+	text-decoration: none;
+	color: #2da1fe;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: none;
+	color: #2da1fe;
+}
+.menu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.cligno {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: blink;
+}
+.italique {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #004e88;
+	text-decoration: none;
+}
+
+
+a:active {
+	text-decoration: none;
+	color: #FFCC00;
+}
+.texte {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.texte2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #002340;
+	text-decoration: none;
+}
+
+.texte3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #2da1fe;
+	text-decoration: none;
+}
+
+.texte4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #00FF00;
+	text-decoration: none;
+}
+
+.under {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+.form {
+	border-style:ridge;
+	background-color:#262a5b;
+	color: #FFFFFF;
+}
+
+.cell {
+	text-align:center;
+	border-style:outset;
+	border-width:1px;
+	border-color:#FFFFFF;
+	background-color:#6e7195;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.cell2 {
+	text-align:center;
+	border-style:outset;
+	border-width:1px;
+	border-color:#FFFFFF;
+	background-color:#262a5b;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.border {
+	border:none;
+}.textepetit {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.textepetit2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.legende {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #5385b1;
+	text-decoration: none;
+	text-align:justify;
+}
